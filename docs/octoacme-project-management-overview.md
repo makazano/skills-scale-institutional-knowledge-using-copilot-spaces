@@ -24,8 +24,12 @@ Applies to all cross-functional projects that deliver product features, services
 - Project Charter / One-pager
 - Roadmap and Release Plan
 - Sprint/Iteration Backlog
-- Acceptance Criteria & Definition of Done
-- Risk Register
+- Definition of Ready (DoR) — see [octoacme-project-planning.md](./octoacme-project-planning.md)
+- Acceptance Criteria & Definition of Done (DoD) — see [octoacme-project-planning.md](./octoacme-project-planning.md)
+- Decision Log — template in [octoacme-decision-log-and-raci.md](./octoacme-decision-log-and-raci.md)
+- RACI Matrix — template in [octoacme-decision-log-and-raci.md](./octoacme-decision-log-and-raci.md)
+- Weekly Status Report — template in [octoacme-status-and-risk-templates.md](./octoacme-status-and-risk-templates.md)
+- Risk Register — template in [octoacme-status-and-risk-templates.md](./octoacme-status-and-risk-templates.md)
 - Retrospective notes and action items
 
 ## Lifecycle (high-level)
